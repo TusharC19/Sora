@@ -4,6 +4,11 @@
 
 **SORA** stands for **Searchable Observation & Reasoning Assistant**.
 
+<p align="center">
+  <img src="assets/sora-banner.png" alt="SORA — Searchable Observation & Reasoning Assistant" width="100%">
+</p>
+
+
 > **Turn long-form video into structured, searchable, and explainable
 > events.**
 
