@@ -11,8 +11,27 @@
 # production
 /build
 
+# Python & Virtual Environments
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# YOLO & Models
+*.pt
+*.onnx
+
+# Backend runtime storage & videos
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/data/*
+!backend/data/.gitkeep
+
 # misc
 .DS_Store
+.env
 .env.local
 .env.development.local
 .env.test.local
